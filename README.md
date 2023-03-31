@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  This project was an assignment for a course that I took in the fourth semester and was co-authored by
-  @TanmayUdupa
-  @True-Fox
+  This project was an assignment for a course that I took in the fourth semester and was done by<br/>
+  Tanmay Praveen Udupa <br/>
+  T P Shriambhikesh<br/>
 </p>
