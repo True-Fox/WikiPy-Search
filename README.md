@@ -8,6 +8,6 @@
 
 <p>
   This project was an assignment for a course that I took in the fourth semester and was done by<br/>
-  [Tanmay Praveen Udupa](https://github.com/TanmayUdupa) <br/>
-  [T P Shriambhikesh](https://github.com/True-Fox)<br/>
+ <a href="https://github.com/TanmayUdupa">Tanmay Praveen Udupa</a> <br/>
+ <a href="https://github.com/True-Fox">T P Shriambhikesh</a><br/>
 </p>
