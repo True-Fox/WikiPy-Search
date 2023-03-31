@@ -86,7 +86,7 @@ while (x):
 
         if (not(x)):
             break
-    except (ConnectionRefusedError, ConnectionResetError, ConnectionError, ConnectionError):
+    except (ConnectionRefusedError, ConnectionResetError, ConnectionError):
         print("Server not active or refused to connect. Please try again maybe after some time")
         exit(1)
 
