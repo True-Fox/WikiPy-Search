@@ -8,7 +8,7 @@ socket = SocketIO(app)
 
 @app.route('/')
 def index():
-    return render_template('main.html')
+    return render_template('client.html')
 
 @socket.on('send list')
 def handle_search_list(data):

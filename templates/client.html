@@ -31,8 +31,10 @@
             })
 
             socket.on('disambi',function(data){
-                
-                $("#dis").empty()
+                $('#image').empty()
+                $('#summary').empty()
+                $('#dis').empty()
+                $('#url').empty()
                 console.log(data)
                 data.forEach(function(result){
                     $("#dis").append($("<li>").text(result).click(function(){
